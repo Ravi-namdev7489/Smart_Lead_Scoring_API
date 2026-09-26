@@ -813,21 +813,6 @@ The current FastAPI scoring logic is also a local scoring implementation. If str
 
 ---
 
-# 26. Future Improvements
-
-Possible improvements include:
-
-* PostgreSQL + JSONB audit storage
-* Real LLM integration
-* API-key authentication
-* Docker Compose
-* Celery/background scoring
-* Redis queue
-* Rate limiting
-* Pagination
-* More advanced analytics
-* Automated API tests
-* Production deployment
 
 ---
 
